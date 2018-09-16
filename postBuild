@@ -1,0 +1,1 @@
+pip install git+https://github.com/godby-group/idea-public.git --no-build-isolation
